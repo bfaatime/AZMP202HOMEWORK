@@ -1,0 +1,41 @@
+h1 {
+ font-weight: bold;
+}
+.highlight-yellow {
+    background-color: yellow;
+}
+.coding {
+    border: 2px solid purple;
+    width: 80%;
+    box-sizing: border-box;
+    padding: 5px;
+}
+.coding-section {
+    padding: 10px;
+}
+h2 {
+    color: red;
+}
+.highlight-blue {
+    background-color: lightblue;
+    padding: 5px;
+}
+.highlight-green {
+    background-color: green;
+    color: white;
+    padding: 5px;
+}
+#highlight-red {
+    color: red;
+    padding: 5px;
+}
+.highlight-green-other {
+    background-color: limegreen;
+    padding: 5px;
+}
+a {
+    color: blue;
+}
+a{
+    background-color: yellow;
+}

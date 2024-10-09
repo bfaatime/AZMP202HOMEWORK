@@ -1,0 +1,14 @@
+.highlight-box {
+border: 2px solid black
+}
+.highlight-red {
+    background-color: red
+    color white;
+}
+.highlight-yellow {
+    background-color: yellow;
+}
+.highlight-green {
+    background-color: green;
+    color: white;
+}
