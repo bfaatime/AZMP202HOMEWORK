@@ -1,10 +1,20 @@
 h1 {
  font-weight: bold;
 }
-.highlight-yellow {
+.highlight-yellow l{
     background-color: yellow;
 }
+
+
 .coding {
+    border: 2px solid red;
+}
+.yellow{
+    background-color: yellow;
+}
+
+.coding {
+    color: red;
     border: 2px solid purple;
     width: 80%;
     box-sizing: border-box;
@@ -30,12 +40,12 @@ h2 {
     padding: 5px;
 }
 .highlight-green-other {
-    background-color: limegreen;
+    background-color: green;
     padding: 5px;
 }
-a {
-    color: blue;
+.blue{
+    background-color: yellow;
 }
-a{
+.yellow{
     background-color: yellow;
 }

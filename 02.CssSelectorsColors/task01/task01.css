@@ -1,13 +1,19 @@
+
 .highlight-box {
-border: 2px solid black
+    border: 2px solid red;
 }
+
+
 .highlight-red {
-    background-color: red
-    color white;
+    color: red;
 }
-.highlight-yellow {
-    background-color: yellow;
+
+
+.section2 h2 {
+    color: yellow;
 }
+
+
 .highlight-green {
     background-color: green;
     color: white;
